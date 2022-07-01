@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dynamoose": "^2.8.5",
+    "uuid": "^8.3.2"
+  }
+}
